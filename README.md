@@ -1,2 +1,2 @@
 # devnet
-Devnet Association Practice
+Devnet Associate Practice
